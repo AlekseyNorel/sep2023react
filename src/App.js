@@ -1,9 +1,10 @@
 import React from 'react';
+import {Simpsons} from "./Components/Simpsons/Simpsons";
 
 const App = () => {
     return (
         <div>
-          asd
+            <Simpsons />
         </div>
     );
 };
